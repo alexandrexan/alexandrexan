@@ -1,8 +1,16 @@
 # 👋 Olá, eu sou o Xan!
 
-Sou **Desenvolvedor Frontend em formação**, com foco em **HTML, CSS e JavaScript**.  
-Estou construindo projetos práticos para aprender cada vez mais e evoluir minhas habilidades.  
-🎧 Curiosidade: também produzo beats → [SoundCloud](https://soundcloud.com/xampsbeatz)
+Sou **Desenvolvedor Frontend em formação**, focado em **HTML, CSS e JavaScript**.  
+Busco criar interfaces funcionais, responsivas e de fácil uso.  
+
+🎧 Curiosidade: também produzo beats!
+<p align="left">
+  <a href="https://soundcloud.com/xampsbeatz" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ---
 
