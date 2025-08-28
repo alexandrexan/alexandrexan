@@ -14,11 +14,11 @@ Estou construindo projetos práticos para aprender cada vez mais e evoluir minha
 ---
 
 ## 📌 Projetos em Destaque
-- [Número Secreto](https://alexandrexan.github.io/numero-secreto/) → jogo interativo de adivinhação em JS  
-- [Conversor de Moedas](https://alexandrexan.github.io/logica-js-projeto_inicial/) → conversor de R$ para US$  
-- [Mika Pets](https://alexandrexan.github.io/mika-pets/) → site temático sobre pets  
+- [Número Secreto](https://alexandrexan.github.io/logica-js-projeto_inicial/) → jogo interativo de adivinhação em JS  
+- [Conversor de Moedas](https://alexandrexan.github.io/conversor-de-moedas/) → conversor de R$ para US$  
+- [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets  
 - [Mascote Android](https://alexandrexan.github.io/projeto-android/) → página dedicada ao mascote Android  
-- [Cidade de Mentiras](https://alexandrexan.github.io/cidade-de-mentiras/) → projeto criativo de layout  
+- [Cidade de Mentiras](https://alexandrexan.github.io/projeto-cidade-de-mentira/) → projeto criativo de layout  
 
 ---
 
