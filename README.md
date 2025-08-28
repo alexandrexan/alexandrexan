@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrexan
-- 👀 I’m interested in html, css, js, front-end development...
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning 
   
   <div align="left">
