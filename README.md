@@ -22,21 +22,29 @@ Estou construindo projetos práticos para aprender cada vez mais e evoluir minha
 
 ---
 
-## 📈 Roadmap
-- [x] Fundamentos de HTML, CSS, JS  
-- [x] Versionamento com Git/GitHub  
-- [ ] Criar portfólio responsivo  
-- [ ] Aprender React.js e Next.js  
-- [ ] Contribuir em projetos open source  
+## 📈 Roadmap de Aprendizado
+
+- <span style="color:green">✔ Fundamentos: HTML, CSS, JavaScript</span>  
+- <span style="color:limegreen">✔ Git & GitHub</span>  
+- <span style="color:red">✖ Criar portfólio responsivo</span>  
+- <span style="color:red">✖ Aprender React.js e Next.js</span>  
+- <span style="color:red">✖ Contribuir para projetos open source</span> 
 
 ---
 
 ## 📬 Contato
-- 📧 Email: [alexandrexan@gmail.com](mailto:xampsbeatz@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/alexandrexan](https://www.linkedin.com/in/alexandreap/)  
-- 🌐 Linktree: [linktr.ee/alexandrexan](https://linktr.ee/xampsbeatz)  
 
-
+<p align="left">
+  <a href="mailto:xampsbeatz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandreap/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/xampsbeatz">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
 
 <!---
 alexandrexan/alexandrexan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
