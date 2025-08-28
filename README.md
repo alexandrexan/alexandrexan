@@ -1,36 +1,68 @@
-- 👋 Hi, I’m @alexandrexan
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning 
-  
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  </div>
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Alexandre%20Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</p>
 
-###
-- 💞️ I'm looking to collaborate on projects
-- 📫 How to reach me https://linktr.ee/xampsbeatz
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i make beats https://soundcloud.com/xampsbeatz/sets/xampsbeatz
+# 👋 Olá, eu sou o Xan!
 
-- Projetos online:
+💻 **Desenvolvedor Frontend em formação**  
+🎨 Apaixonado por criar interfaces funcionais, responsivas e com boa experiência de usuário.  
+🎧 Nas horas vagas produzo **beats** → [SoundCloud](https://soundcloud.com/xampsbeatz)  
 
-  Número Secreto - https://alexandrexan.github.io/logica-js-projeto_inicial/
+---
 
-  Conversor de Moedas - https://alexandrexan.github.io/conversor-de-moedas/
+## 🚀 Tecnologias & Ferramentas
 
-  Cidade de Mentiras - https://alexandrexan.github.io/projeto-cidade-de-mentira/
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-  Mika Pets - https://alexandrexan.github.io/mika-pets/#
+---
 
-  Mascote Android - https://alexandrexan.github.io/projeto-android/
+## 📌 Projetos em Destaque
+
+| Projeto               | Descrição                          | Tecnologias       | Link |
+|-----------------------|------------------------------------|-------------------|------|
+| **Número Secreto**    | Jogo interativo de adivinhação     | HTML, JS          | [🔗 Ver online](https://alexandrexan.github.io/numero-secreto/) |
+| **Conversor de Moedas** | Converte valores de R$ para US$  | HTML, CSS, JS     | [🔗 Ver online](https://alexandrexan.github.io/logica-js-projeto_inicial/) |
+| **Mika Pets**         | Site temático para pets            | HTML, CSS, JS     | [🔗 Ver online](https://alexandrexan.github.io/mika-pets/) |
+| **Mascote Android**   | Página temática sobre o Android    | HTML, CSS         | [🔗 Ver online](https://alexandrexan.github.io/projeto-android/) |
+| **Cidade de Mentiras**| Projeto criativo de layout         | HTML, CSS         | [🔗 Ver online](https://alexandrexan.github.io/cidade-de-mentiras/) |
+
+---
+
+## 📈 Roadmap de Aprendizado
+
+- [x] HTML5, CSS3, JavaScript  
+- [x] Versionamento com Git/GitHub  
+- [ ] Criar portfólio responsivo completo  
+- [ ] Estudar **React.js** e **Next.js**  
+- [ ] Contribuir em projetos **Open Source**  
+
+---
+
+---
+
+## 📬 Vamos conversar?
+
+<p align="center">
+  <a href="mailto:alexandrexan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandrexan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/alexandrexan">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 
 <!---
 alexandrexan/alexandrexan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
