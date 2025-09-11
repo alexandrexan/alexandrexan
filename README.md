@@ -2,16 +2,6 @@
 
 Sou **Desenvolvedor Frontend Júnior**, focado em **JavaScript, HTML, CSS**.  
 Busco criar interfaces funcionais, responsivas e de fácil uso.  
-
-🎧 Curiosidade: também produzo beats!
-<p align="left">
-  <a href="https://soundcloud.com/xampsbeatz" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/>
-  </a>
-</p>
-
-
-
 ---
 
 ## 🚀 Tecnologias
@@ -37,6 +27,15 @@ Busco criar interfaces funcionais, responsivas e de fácil uso.
 - <span style="color:red">✔ Criar portfólio responsivo</span>  
 - <span style="color:red">✖ Aprender React.js e Next.js</span>  
 - <span style="color:red">✖ Contribuir para projetos open source</span> 
+
+---
+
+🎧 Curiosidade: também produzo beats!
+<p align="left">
+  <a href="https://soundcloud.com/xampsbeatz" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
