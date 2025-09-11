@@ -1,22 +1,24 @@
 # 👋 Olá, eu sou o Xan!
 
-Sou **Desenvolvedor Frontend Júnior**, focado em **JavaScript, HTML, CSS**.  
-Busco criar interfaces funcionais, responsivas e de fácil uso.  
+Sou Desenvolvedor Frontend Júnior, focado em criar interfaces modernas, acessíveis e responsivas.
+Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo meus estudos em React e Next.js para desenvolver aplicações escaláveis. 
 ---
 
 ## 🚀 Tecnologias
-- HTML5, CSS3, JavaScript  
-- Node.js  
-- Git & GitHub  
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React (em aprendizado)
+- Ferramentas: Git, GitHub, Node.js
+- Boas práticas: versionamento de código, responsividade, acessibilidade
 
 ---
 
 ## 📌 Projetos em Destaque
 - [Número Secreto](https://alexandrexan.github.io/logica-js-projeto_inicial/) → jogo interativo de adivinhação em JS  
-- [Conversor de Moedas](https://alexandrexan.github.io/conversor-de-moedas/) → conversor de R$ para US$  
-- [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets  
-- [Mascote Android](https://alexandrexan.github.io/projeto-android/) → página dedicada ao mascote Android  
-- [Cidade de Mentiras](https://alexandrexan.github.io/projeto-cidade-de-mentira/) → projeto criativo de layout  
+- [Conversor de Moedas](https://alexandrexan.github.io/conversor-de-moedas/) → conversor de moedas com interface responsiva e validação de input 
+- [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets, desenvolvido com JavaScript, HTML5 e CSS3  
+- [Mascote Android](https://alexandrexan.github.io/projeto-android/) → página dedicada ao mascote Android, explorando boas práticas de layout 
+- [Cidade de Mentiras](https://alexandrexan.github.io/projeto-cidade-de-mentira/) → projeto criativo de layout inspirado em storytelling
+
+💡 Em breve: novos projetos com React.js e consumo de APIs reais.
 
 ---
 
@@ -55,8 +57,3 @@ Busco criar interfaces funcionais, responsivas e de fácil uso.
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
-
-<!---
-alexandrexan/alexandrexan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
