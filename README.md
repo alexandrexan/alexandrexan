@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Xan!
 
-Sou **Desenvolvedor Frontend Júnior**, focado em **HTML, CSS e JavaScript**.  
+Sou **Desenvolvedor Frontend Júnior**, focado em **JavaScript, HTML, CSS**.  
 Busco criar interfaces funcionais, responsivas e de fácil uso.  
 
 🎧 Curiosidade: também produzo beats!
