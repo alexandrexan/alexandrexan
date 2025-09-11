@@ -34,7 +34,7 @@ Busco criar interfaces funcionais, responsivas e de fácil uso.
 
 - <span style="color:green">✔ Fundamentos: HTML, CSS, JavaScript</span>  
 - <span style="color:limegreen">✔ Git & GitHub</span>  
-- <span style="color:red">✖ Criar portfólio responsivo</span>  
+- <span style="color:red">✔ Criar portfólio responsivo</span>  
 - <span style="color:red">✖ Aprender React.js e Next.js</span>  
 - <span style="color:red">✖ Contribuir para projetos open source</span> 
 
