@@ -17,6 +17,7 @@ Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo m
 - [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets, desenvolvido com JavaScript, HTML5 e CSS3  
 - [Mascote Android](https://alexandrexan.github.io/projeto-android/) → página dedicada ao mascote Android, explorando boas práticas de layout 
 - [Cidade de Mentiras](https://alexandrexan.github.io/projeto-cidade-de-mentira/) → projeto criativo de layout inspirado em storytelling
+- [XAMPSBEATZ](https://alexandrexan.github.io/xampsbeatz/) → portfólio musical interativo para divulgação de beats, com foco em design minimalista e navegação fluida
 
 💡 Em breve: novos projetos com React.js e consumo de APIs reais.
 
