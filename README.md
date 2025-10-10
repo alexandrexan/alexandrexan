@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Xan!
+# Olá, eu sou o Xan!
 
 Sou Desenvolvedor Frontend Júnior, focado em criar interfaces modernas, acessíveis e responsivas.
 Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo meus estudos em React e Next.js para desenvolver aplicações escaláveis. 
