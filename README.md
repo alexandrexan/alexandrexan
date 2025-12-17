@@ -4,14 +4,14 @@ Sou Desenvolvedor Frontend Júnior, focado em criar interfaces modernas, acessí
 Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo meus estudos em React e Next.js para desenvolver aplicações escaláveis. 
 ---
 
-## 🚀 Tecnologias
+# Tecnologias
 - Frontend: HTML5, CSS3, JavaScript (ES6+), React (em aprendizado)
 - Ferramentas: Git, GitHub, Node.js
 - Boas práticas: versionamento de código, responsividade, acessibilidade
 
 ---
 
-## 📌 Projetos em Destaque
+# Projetos em Destaque
 - [Número Secreto](https://alexandrexan.github.io/logica-js-projeto_inicial/) → jogo interativo de adivinhação em JS  
 - [Conversor de Moedas](https://alexandrexan.github.io/conversor-de-moedas/) → conversor de moedas com interface responsiva e validação de input 
 - [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets, desenvolvido com JavaScript, HTML5 e CSS3  
@@ -23,7 +23,7 @@ Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo m
 
 ---
 
-## 📈 Roadmap de Aprendizado
+# Roadmap de Aprendizado
 
 - <span style="color:green">✔ Fundamentos: HTML, CSS, JavaScript</span>  
 - <span style="color:limegreen">✔ Git & GitHub</span>  
@@ -42,7 +42,7 @@ Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo m
 
 ---
 
-## 📬 Contato
+# Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexandreap/">
