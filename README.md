@@ -12,7 +12,7 @@ Tenho experiência prática com HTML, CSS e JavaScript, e atualmente aprofundo m
 ---
 
 # Projetos em Destaque
-- [Número Secreto](https://alexandrexan.github.io/logica-js-projeto_inicial/) → jogo interativo de adivinhação em JS  
+- [Número Secreto](https://alexandrexan.github.io/numero-secreto/) → jogo interativo de adivinhação em JS  
 - [Conversor de Moedas](https://alexandrexan.github.io/conversor-de-moedas/) → conversor de moedas com interface responsiva e validação de input 
 - [Mika Pets](https://alexandrexan.github.io/mika-pets/#) → site temático sobre pets, desenvolvido com JavaScript, HTML5 e CSS3  
 - [Mascote Android](https://alexandrexan.github.io/projeto-android/) → página dedicada ao mascote Android, explorando boas práticas de layout 
